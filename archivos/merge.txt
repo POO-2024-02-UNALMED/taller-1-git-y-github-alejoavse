@@ -1,0 +1,5 @@
+Alejandro Avendaño Serna.
+25 años.
+Espero desarrollar mi logica en programación para crecer personal y profesionalmente.
+Es importante tener cuidado al modificar dos o mas archivos al mismo tiempo porque podemos tener superposicioines y reiteraciones en nuestros proyectos.
+Mi solucion fue mover el primer archivo de texto llamado "merge" a la carpeta main.
